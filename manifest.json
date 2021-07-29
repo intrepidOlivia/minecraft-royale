@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A collection of scripts to enable functionality in the Minecraft Battle Royale",
+    "name": "Minecraft Royale 0.1.0",
+    "uuid": "5afbfd6f-e9d9-46b7-9d4d-c4f7b2777919",
+    "version": [ 0, 0, 1 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Server scripts",
+      "type": "data",
+      "uuid": "7a4248f3-75d9-48c9-bbdf-f38e0837e1d1",
+      "version": [ 0, 0, 1 ]
+    },
+    {
+      "description": "Server scripts",
+      "type": "client_data",
+      "uuid": "a44e5fcb-c070-44b6-a1fa-0ab72ce6f8c9",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
